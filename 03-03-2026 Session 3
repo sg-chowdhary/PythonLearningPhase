@@ -1,0 +1,28 @@
+Lists
+
+nums = [12, 24, 68, 56, 'potato']
+nums
+[12, 24, 68, 56, 'potato']
+nums[4]
+'potato'
+nums[0]
+12
+nums[2:]
+[68, 56, 'potato']
+names = ['mouse','cat','dog']
+names
+['mouse', 'cat', 'dog']
+values = [9.8, 'mouse', 25]
+values
+[9.8, 'mouse', 25]
+group = [nums, names]
+group
+[[12, 24, 68, 56, 'potato'], ['mouse', 'cat', 'dog']]
+nums.append(24)
+nums.clear
+<built-in method clear of list object at 0x000002C3485EEF80>
+nums.append(24)
+nums.insert(2,77)
+nums
+[12, 24, 77, 68, 56, 'potato', 24, 24]
+
