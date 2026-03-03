@@ -18,8 +18,6 @@ Enter "help" below or click "Help" above for more information.
 2
 8+9-3
 14
-9-9-
-SyntaxError: invalid syntax
 8+2*3
 14
 (8+2)*3
@@ -50,14 +48,8 @@ print('samira\'s "laptop"')
 samira's "laptop"
 'samira'+'samira'
 'samirasamira'
-10x'samira'
-SyntaxError: invalid decimal literal
-10*]'samira'
-SyntaxError: unmatched ']'
 10*'samira'
 'samirasamirasamirasamirasamirasamirasamirasamirasamirasamira'
-\n
-SyntaxError: unexpected character after line continuation character
 print(c:\docs\nope)
 SyntaxError: invalid syntax
 print(r'c:docs\nope')
