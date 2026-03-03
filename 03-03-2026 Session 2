@@ -1,0 +1,42 @@
+**learning variables**
+
+x=2
+y=4
+x+y
+6
+x-y
+-2
+x*y
+8
+x=9
+x+y
+13
+abc
+Traceback (most recent call last):
+  File "<pyshell#7>", line 1, in <module>
+    abc
+NameError: name 'abc' is not defined. Did you mean: 'abs'? Or did you forget to import 'abc'?
+19+y
+23
+_+23
+46
+
+name='potato'
+name
+'potato'
+name+'potato'
+'potatopotato'
+name[0]
+'p'
+name[8]
+Traceback (most recent call last):
+  File "<pyshell#15>", line 1, in <module>
+    name[8]
+IndexError: string index out of range
+
+e='maybe'
+e[-1]
+'e'
+e[1:4]
+'ayb'
+
