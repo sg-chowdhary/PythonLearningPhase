@@ -29,4 +29,6 @@ nums.pop(1)
 24
 nums
 [12, 77, 68, 56, 'potato', 24, 24]
-
+del nums[2:6]
+nums
+[12, 77, 24]
