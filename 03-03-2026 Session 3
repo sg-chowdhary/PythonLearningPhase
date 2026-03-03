@@ -32,3 +32,15 @@ nums
 del nums[2:6]
 nums
 [12, 77, 24]
+nums.extend([35,26,99])
+nums
+[12, 77, 24, 35, 26, 99]
+min(nums)
+12
+max(nums)
+99
+sum(nums)
+273
+nums.sort()
+nums
+[12, 24, 26, 35, 77, 99]
